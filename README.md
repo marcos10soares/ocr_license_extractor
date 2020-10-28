@@ -32,7 +32,7 @@ python3 license_extractor.py
 
 ## Example
 
-![Example](https://github.com/marcos10soares/ocr_license_extractor/raw/master/yKLbXzLJ7H.gif)
+![Example](https://github.com/marcos10soares/ocr_license_extractor/blob/main/yKLbXzLJ7H.gif?raw=true)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
